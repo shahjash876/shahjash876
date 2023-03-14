@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @shahjash876
 - 👀 I’m interested in Data analytics and visulisations 
-- 🌱 I’m a masters student majoring in information technology and analytics at Rutgers business school 
 - 💞️ I’m looking to collaborate on Data analysis and forecasting projects
 - 📫 Feel free to reach me at shahjash876@gmail.com
 - 
